@@ -1,4 +1,4 @@
-<h1 align= center><b>⭐️ Octave Music Bot ⭐️</b></h1>
+<h1 align= center><b>⭐️ STD Music Bot ⭐️</b></h1>
 <h3 align = center> A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls </h3>
 
 <p align="center">
@@ -20,8 +20,8 @@
 
 <p align="center">
     A Support Group and ready-to-use running instance of this bot can be found on Telegram <br>
-    <a href="https://t.me/Octaverobot"> OctaveMusicBot </a> |
-    <a href="https://t.me/pglpnti_ki_dunia"> OctaveSupport </a>
+    <a href="https://t.me/STD_MUSIC_ROBOT"> STDMusicBot </a> |
+    <a href="https://t.me/best_friends_chat_group"> STDSupport </a>
 </p>
 
 <h2 align="center">
@@ -39,10 +39,10 @@
    Stay Up-to-Date
 </h2>
 
-<p align="center"><img src="https://te.legra.ph/file/a1cc633bae481d78be13f.jpg" alt="Decent Boy Github" width="1000px" /></p>
+<p align="center"><img src="https://te.legra.ph/file/b098eec5ecc61fdbed99e.jpg" alt="STD Boy Github" width="1000px" /></p>
 
 <h2 align="center">
-   Octave Music Bot
+   STD Music Bot
 </h2>
 
 
@@ -91,9 +91,9 @@
 </h2>
 
 <p align="center">
-<a href="https://t.me/pglpnti_ki_dunia"><img src="https://img.shields.io/badge/Octave%20Channel-blueviolet?style=for-the-badge&logo=telegram" width="200""/</a>
-<a href="https://t.me/decent_op"><img src="https://img.shields.io/badge/Contact%20Owner-blueviolet?style=for-the-badge&logo=telegram" width="202""/</a>  
-<a href="https://t.me/pglpnti_ki_dunia"><img src="https://img.shields.io/badge/Octave%20Support-blueviolet?style=for-the-badge&logo=telegram" width="195""/></a>
+<a href="https://t.me/best_friends_chat_group"><img src="https://img.shields.io/badge/Octave%20Channel-blueviolet?style=for-the-badge&logo=telegram" width="200""/</a>
+<a href="https://t.me/STD_DEEPANSHU"><img src="https://img.shields.io/badge/Contact%20Owner-blueviolet?style=for-the-badge&logo=telegram" width="202""/</a>  
+<a href="https://t.me/best_friends_chat_group"><img src="https://img.shields.io/badge/Octave%20Support-blueviolet?style=for-the-badge&logo=telegram" width="195""/></a>
 </p>
 
 
