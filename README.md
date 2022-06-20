@@ -46,7 +46,7 @@
 </h2>
 
 
-<p align="center"><img src="https://te.legra.ph/file/d3dc7279a9d3dae428030.jpg" alt="Decent Boy Github" width="1000px" /></p>
+<p align="center"><img src="https://te.legra.ph/file/b098eec5ecc61fdbed99e.jpg" alt="Decent Boy Github" width="1000px" /></p>
 
 
 <h2 align="center">
